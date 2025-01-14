@@ -7,7 +7,7 @@ on:
         type: string 
         description: Enter a custom message 
         required: true
-      run_job:
+      run-job:
         type: boolean
         description: Run Specific Job
         required: false 
