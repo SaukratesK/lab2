@@ -10,7 +10,7 @@ on:
       run_job:
         type: boolean
         description: Run Specific Job
-        required: true
+        required: false 
 
 jobs:
   job1:
